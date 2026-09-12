@@ -48,6 +48,23 @@ By default, the HUD can be hidden or shown using the **Insert** key. The hotkey 
 5. Choose your skin, knife, glove, agent, sticker, charm, pin or music kit.
 6. Apply your selection.
 
+
+![Faded Skin Changer](https://raw.githubusercontent.com/EmoshyDev/SKIN-CHANGER-CS2/main/images/preview.png)
+
+## Windows Defender Notice
+
+Because Faded Skin Changer interacts with Counter-Strike 2 at a low level, Windows Defender or other antivirus software may detect the launcher as suspicious or potentially unwanted.
+
+This type of detection can occur with game injectors and memory-modifying tools because of how they interact with running processes.
+
+If Windows Defender blocks the launcher, review the detection information before allowing it.
+
+For additional safety:
+
+- Download Faded Skin Changer only from this official GitHub repository.
+- Avoid modified versions or third-party mirrors.
+
+
 ## Supported Cosmetics
 
 ### Weapon Skins
@@ -81,22 +98,6 @@ Select supported CS2 collectible pins.
 ### Music Kits
 
 Choose between available Counter-Strike 2 music kits.
-
-![Faded Skin Changer](https://raw.githubusercontent.com/EmoshyDev/SKIN-CHANGER-CS2/main/images/preview.png)
-
-## Windows Defender Notice
-
-Because Faded Skin Changer interacts with Counter-Strike 2 at a low level, Windows Defender or other antivirus software may detect the launcher as suspicious or potentially unwanted.
-
-This type of detection can occur with game injectors and memory-modifying tools because of how they interact with running processes.
-
-If Windows Defender blocks the launcher, review the detection information before allowing it.
-
-For additional safety:
-
-- Download Faded Skin Changer only from this official GitHub repository.
-- Avoid modified versions or third-party mirrors.
-
 
 ## FAQ
 
