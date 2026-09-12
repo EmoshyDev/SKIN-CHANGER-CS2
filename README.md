@@ -19,19 +19,6 @@ Customize your Counter-Strike 2 loadout and quickly preview different cosmetic c
 - Easy installation
 - Windows support
 
-## Windows Defender Notice
-
-Because Faded Skin Changer interacts with Counter-Strike 2 at a low level, Windows Defender or other antivirus software may detect the launcher as suspicious or potentially unwanted.
-
-This type of detection can occur with game injectors and memory-modifying tools because of how they interact with running processes.
-
-If Windows Defender blocks the launcher, review the detection information before allowing it.
-
-For additional safety:
-
-- Download Faded Skin Changer only from this official GitHub repository.
-- Avoid modified versions or third-party mirrors.
-
 ## Installation
 
 1. Click the green **Code** button at the top of the repository.
@@ -102,6 +89,21 @@ Screenshots and previews of the Faded Skin Changer interface can be added here.
 Example:
 
 ![Faded Skin Changer](images/preview.png)
+
+
+## Windows Defender Notice
+
+Because Faded Skin Changer interacts with Counter-Strike 2 at a low level, Windows Defender or other antivirus software may detect the launcher as suspicious or potentially unwanted.
+
+This type of detection can occur with game injectors and memory-modifying tools because of how they interact with running processes.
+
+If Windows Defender blocks the launcher, review the detection information before allowing it.
+
+For additional safety:
+
+- Download Faded Skin Changer only from this official GitHub repository.
+- Avoid modified versions or third-party mirrors.
+
 
 ## FAQ
 
