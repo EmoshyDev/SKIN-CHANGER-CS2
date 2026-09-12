@@ -82,7 +82,9 @@ Select supported CS2 collectible pins.
 
 Choose between available Counter-Strike 2 music kits.
 
-![Faded Skin Changer](images/preview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EmoshyDev/SKIN-CHANGER-CS2/main/images/preview.png" width="900">
+</p>
 
 ## Windows Defender Notice
 
