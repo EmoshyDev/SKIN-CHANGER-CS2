@@ -88,7 +88,7 @@ Screenshots and previews of the Faded Skin Changer interface can be added here.
 
 Example:
 
-![Faded Skin Changer](images/preview.png)
+![Faded Skin Changer](./images/preview.png)
 
 
 ## Windows Defender Notice
